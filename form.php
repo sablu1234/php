@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php 
-    $price= $_POST['price'];
-    $qty= $_POST['qty'];
+    // $price= $_POST['price'];
+    // $qty= $_POST['qty'];
     
     ?>
     <form action="index.php" method="post">
